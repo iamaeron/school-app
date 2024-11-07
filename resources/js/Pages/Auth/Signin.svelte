@@ -2,7 +2,7 @@
     import Button from "@/Components/Button.svelte";
     import Checkbox from "@/Components/Checkbox.svelte";
     import InputLabel from "@/Components/InputLabel.svelte";
-    import TextInput from "@/Components/TextInput.svelte";
+    import TextInput from "@/ui/TextInput.svelte";
     import Icon from "@iconify/svelte";
     import { useForm } from "@inertiajs/svelte";
 
